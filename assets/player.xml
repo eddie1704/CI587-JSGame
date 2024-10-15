@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--This XML defines the coordinate of each player character sprite so they can be used on the game tile map-->
+
+
+<TextureAtlas imagePath="player.png">
+	<SubTexture name="player0000" x="0" y="0" width="34" height="34"/>
+	<SubTexture name="player0001" x="39" y="0" width="34" height="34"/>
+	<SubTexture name="player0002" x="78" y="0" width="34" height="34"/>
+	<SubTexture name="player0003" x="0" y="39" width="34" height="34"/>
+</TextureAtlas>

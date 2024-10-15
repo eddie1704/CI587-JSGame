@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--This XML defines the coordinate of each item sprite so they can be used on the game tile map-->
+
+
+<TextureAtlas imagePath="items.png">
+	<SubTexture name="item0001" x="0" y="0" width="34" height="34"/>
+	<SubTexture name="item0002" x="39" y="0" width="34" height="34"/>
+	<SubTexture name="item0003" x="78" y="0" width="34" height="34"/>
+	<SubTexture name="item0004" x="0" y="39" width="34" height="34"/>
+	<SubTexture name="item0005" x="39" y="39" width="34" height="34"/>
+	<SubTexture name="item0006" x="78" y="39" width="34" height="34"/>
+	<SubTexture name="item0007" x="0" y="78" width="34" height="34"/>
+	<SubTexture name="item0008" x="39" y="78" width="34" height="34"/>
+	<SubTexture name="item0009" x="78" y="78" width="34" height="34"/>
+	<SubTexture name="item00010" x="0" y="117" width="34" height="34"/>
+</TextureAtlas>

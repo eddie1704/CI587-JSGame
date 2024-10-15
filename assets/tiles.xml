@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--This XML defines the coordinate of each tile sprite so they can be used to make up the game map-->
+
+<TextureAtlas imagePath="tiles.png">
+	<SubTexture name="tile0000" x="0" y="0" width="34" height="34"/>
+	<SubTexture name="tile0001" x="0" y="44" width="34" height="34"/>
+	<SubTexture name="tile0002" x="0" y="93" width="34" height="34"/> 
+	<SubTexture name="tile0003" x="44" y="0" width="34" height="34"/>
+	<SubTexture name="tile0004" x="44" y="44" width="34" height="34"/>
+	<SubTexture name="tile0005" x="44" y="93" width="34" height="34"/>
+	<SubTexture name="tile0006" x="93" y="0" width="34" height="34"/>
+	<SubTexture name="tile0007" x="93" y="44" width="34" height="34"/>
+	<SubTexture name="tile0008" x="93" y="93" width="34" height="34"/>
+	<SubTexture name="tile0009" x="135" y="0" width="34" height="34"/>
+	<SubTexture name="tile00010" x="135" y="44" width="34" height="34"/>
+	<SubTexture name="tile00011" x="135" y="93" width="34" height="34"/>
+	<SubTexture name="tile00012" x="177" y="0" width="34" height="34"/>
+	<SubTexture name="tile00013" x="177" y="44" width="34" height="34"/>
+	<SubTexture name="tile00014" x="177" y="93" width="34" height="34"/>
+	<SubTexture name="tile00015" x="219" y="0" width="34" height="34"/>
+</TextureAtlas>
